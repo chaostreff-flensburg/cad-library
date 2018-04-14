@@ -12,7 +12,7 @@ This repository is meant to offer collection of 3D objects, that have been made 
 ## File types
 
 * `.stl`  
-  Wikipedia: STL files describe only the surface geometry of a three-dimensional object without any representation of color, texture or other common CAD model attributes.
+  STL files describe only the surface geometry of a three-dimensional object without any representation of color, texture or other common CAD model attributes. - Wikipedia
 * `.prt`  
   PRT files are the default file format of the Siemens NX UGRAF CAD Design modeler.
 
